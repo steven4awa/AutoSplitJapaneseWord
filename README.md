@@ -1,3 +1,7 @@
+# AutoAddContentsOnJapanese
+## How to use?
+This project is one hundred precent genereted by AI in Visual Studio Code. I do not understand the typeScript language at all. So it is only for personal use. To use this plugin you must first install the [dependency plugin](https://github.com/k-quels/japanese-novel-ruby). After installing it, you can use this plugin by pressing the default keybind 'control+j'. If nothing comes wrong, it will show the dialog in which you can fill the contents you want and press 'enter'. For example, there are contents  like '市街', which then will be like '｜市街《しがい》' if you fill the 'しがい'.
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
